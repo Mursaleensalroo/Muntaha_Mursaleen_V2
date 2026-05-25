@@ -5,8 +5,8 @@
 
 export const siteConfig = {
   // Your names
-  partnerOne: 'Aarav',
-  partnerTwo: 'Anaya',
+  partnerOne: 'Muntaha',
+  partnerTwo: 'Mursaleen',
 
   // Wedding date — ISO format (YYYY-MM-DDTHH:MM:SS)
   weddingDate: '2026-08-16T11:00:00',
