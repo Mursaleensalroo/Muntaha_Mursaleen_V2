@@ -12,7 +12,7 @@ export const siteConfig = {
   weddingDate: '2026-08-16T11:00:00',
 
   // Location (optional — leave empty string to hide)
-  location: 'Goa, India',
+  location: 'Kashmir',
 
   // Tagline shown on hero
   tagline: 'A love letter, in chapters',
