@@ -40,9 +40,9 @@ export type Chapter = {
 export const chapters: Chapter[] = [
   {
     number: 'I',
-    date: 'Autumn, 2019',
-    title: 'A coincidence, almost missed',
-    body: 'It started with a question neither of us remembers asking. A friend\'s gathering, a quiet corner, a conversation that should have ended after five minutes but somehow stretched into two hours.\n\nThere was no fireworks, no script. Just the slow surprise of finding someone who laughs at the same things, who finishes the sentences you didn\'t know you were starting.',
+    date: 'Kashmir, [2019]',
+    title: 'A meeting on the road',
+    body: 'There was no signal. No phone, no internet, no way to call anyone back to the world we had each left behind.\n\nJust the mountains, the slow grey of an afternoon in Kashmir, and a road that brought two strangers to the same quiet stretch of asphalt at the same impossible moment.\n\nWe had no language for what was happening yet. Only the silence of those hills, and the strange certainty that we had been delivered to each other by something more deliberate than coincidence.',
     imagePosition: 'right',
   },
   {
