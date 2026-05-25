@@ -40,7 +40,7 @@ export type Chapter = {
 export const chapters: Chapter[] = [
   {
     number: 'I',
-    date: 'Kashmir, [2019]',
+    date: 'Kashmir, 2019',
     title: 'A meeting on the road',
     body: 'There was no signal. No phone, no internet, no way to call anyone back to the world we had each left behind.\n\nJust the mountains, the slow grey of an afternoon in Kashmir, and a road that brought two strangers to the same quiet stretch of asphalt at the same impossible moment.\n\nWe had no language for what was happening yet. Only the silence of those hills, and the strange certainty that we had been delivered to each other by something more deliberate than coincidence.',
     imagePosition: 'right',
